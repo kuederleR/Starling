@@ -30,6 +30,7 @@ Plugging in $x=1$ (our final position) and $T=2$ (our elapsed time), the flight 
 Note that the altitude ($z$-axis) is set to a constant $-1$. This is because for all setpoints in ROS on the Starling, the PX4 reference frame must be adhered to. 
 
 ![image](https://docs.px4.io/main/assets/frame_heading.BvCcZ-mD.png)
+
 $$\text{Figure 1: PX4 coordinate frames}$$
 
 ## Implementing Control Script
